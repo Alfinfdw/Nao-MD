@@ -80,37 +80,37 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281387307198', 'Ryzn', true]
+['4915256954581', 'Niluh', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6281387307198'
-global.nomorown1 = '6281387307198'
-global.nomorown2 = '6281387307198'
+global.nomorbot = '6285852939370'
+global.nomorown = '4915256954581'
+global.nomorown1 = '4915256954581'
+global.nomorown2 = '4915256954581'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Ryzn'
-global.namebot = '​ NaoBotz'
-global.wm = '© NaoBotz By Ryzn'
+global.author = 'aLxNiluh'
+global.namebot = '​ Niluhuwu'
+global.wm = '© Niluhuwu By aLxNiluh'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'Ryzn '
+global.wm = 'aLxNiluh '
 global.watermark = wm
-global.wm2 = 'Ryzn '
+global.wm2 = 'aLxNiluh '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `NaoBotz`
-global.stickpack = 'NaoBotz'
-global.stickauth = `© Ryzn`
+global.titlebot = `Niluhuwu`
+global.stickpack = 'Niluhuwu'
+global.stickauth = `© aLxNiluh`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Ryzn'
-global.nameown2 = 'Ryzn'
+global.nameown1= 'aLxNiluh'
+global.nameown2 = 'aLxNiluh'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
@@ -124,12 +124,12 @@ global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/channel/UC5z1Xp6vQGU038B1RbMC3Gg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 8730 7198'
+global.pdana = '4915 2569 54581'
 global.povo = '-'
-global.pgopay = '0813 8730 7198'
+global.pgopay = '4915 2569 54581'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 8730 7198'
-global.ppulsa2 = '0813 8730 7198'
+global.ppulsa = '4915 2569 54581'
+global.ppulsa2 = '4915 2569 54581'
 global.psaweria = '-'
 
 
